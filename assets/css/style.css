@@ -196,3 +196,57 @@
   display: inline-block;
   text-decoration: none;
  }
+/* HEADER */
+.header-top {
+  padding: 10px;
+  background-color: #000000;
+}
+
+.header-top form {
+  width: 22.61%;
+  height: 22px;
+  border: 1px solid #616264;
+}
+
+.header-top input[type=search]{
+  width: 84.47%;
+  border: none;
+  background: transparent;
+  font-size: 17px;
+}
+
+.header-top button {
+  width: 15.53%;
+  border: none;
+  background: transparent;
+  color: #616264;
+  font-size: 17px;
+}
+
+
+.header-bottom {
+  padding: 10px;
+  background-color: #363636;
+}
+
+h1 {
+  width: 25.14%;
+  display: inline-block;
+}
+
+nav {
+  width: 74.85%;
+  float: right;
+}
+nav li {
+  width: 13.4%;
+  margin-top: 10px;
+  display: inline-block;
+  text-align: center;
+}
+nav a {
+  color: #f0f0f0;
+  font-size: 9px;
+  letter-spacing:0;
+
+}
